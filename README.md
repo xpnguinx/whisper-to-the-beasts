@@ -1,6 +1,8 @@
 # Whisper To The Beast
+<img width="668" alt="Screenshot 2025-03-02 at 4 13 29 PM" src="https://github.com/user-attachments/assets/3a86badd-0b71-4f6f-9989-72605bdbbc81" />
 
-![Whisper To The Beast Banner](https://via.placeholder.com/800x200/100000/ff0000?text=Whisper+To+The+Beast)
+<img width="816" alt="Screenshot 2025-03-02 at 4 13 36 PM" src="https://github.com/user-attachments/assets/52e825a4-e10a-41f3-8d93-85fc4679711b" />
+
 
 ## Overview
 
