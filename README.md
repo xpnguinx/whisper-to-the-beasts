@@ -25,7 +25,7 @@ https://github.com/penguinlalo/whisper-to-the-beasts.git
 - **Beast Personas**: Each LLM is assigned a unique eldritch entity name
 - **Chat History**: Maintains conversation logs with your chosen entity
 - **Configurable**: Choose your preferred model, customize the experience
-- **Multiple Interfaces**: Run as a GUI application or use the CLI version in a terminal
+- **Multiple Interfaces**: Run as a GUI application or use the CLI version in a terminal 
 
 ## Requirements
 
