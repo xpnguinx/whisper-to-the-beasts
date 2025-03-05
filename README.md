@@ -12,7 +12,7 @@ The project comes in two flavors:
 - **WhisperToTheBeastGUI.java**: A full-featured graphical interface with animations and visual theming
 - **WhisperToTheBeastCLI.java**: A command-line version for terminal enthusiasts and headless environments
 
-## Repository
+## Repository 
 
 The official repository is available at:
 https://github.com/penguinlalo/whisper-to-the-beasts.git
